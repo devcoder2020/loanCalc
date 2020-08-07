@@ -1,15 +1,15 @@
-# loanCalc
+# Python Loan Calculator 
+Demo of first fully functional calculator, if you find any flaws, fault, or issues please let me know. 
 
-WebSites
-Demo my first complete project within Github
+## Developer Lee Haynes
++ 44 (0) 785 374 0636 
+devcodertrainingsite@yandex.com
 
-Developer Lee Haynes
-44 (0) 785 374 0636 devcodertrainingsite@yandex.com
-Website
+## Website
 https://www.devcoder.me.uk/
 
-My Instagram
+## My Instagram
 https://www.instagram.com/junior_web_developer_2020/
 
-My Linkedin
+## My Linkedin
 https://www.linkedin.com/in/leehaynes/
